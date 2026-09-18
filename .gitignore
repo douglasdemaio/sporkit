@@ -7,3 +7,11 @@ test-ledger/
 .env.*.local
 *.log
 .DS_Store
+
+# --- Solana/Anchor secrets: NEVER commit ---
+spork-escrow-keypair.json
+spork-escrow-keypair*.json
+*.keypair.json
+id.json
+.anchor/
+programs/spork_escrow/id.json*

@@ -3,10 +3,7 @@ seeds = false
 skip-lint = false
 
 [programs.devnet]
-forkit_escrow = "CNUWqYhXPXszPuB8psqG2VSnwCXf1MWzT4Pztp4y8fgj"
-forkit_registry = "EM1FgSzfS3F7cCYJWhUaqqPAK7ijZYpYRx7pzYkuyExz"
-forkit_loyalty = "BnnUntqkUadZ2BsW8j675P9hJQV3aqVcmt4xG4xfeoM8"
-forkit_token = "FRKTkNq5sGhCVr3QLUwMGaznMaCvGkzNFbPmHd6XbC4q"
+spork_escrow = "G2Z1FrkEDxgsvoVi7a8C1P3gejdCbph9BRAh7rTCsb4B"
 
 [registry]
 url = "https://api.apr.dev"
